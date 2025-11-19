@@ -14,9 +14,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evilshxt&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<!-- GitHub Trophies - will show once you have achievements -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=evilshxt&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" /> -->
 
 ---
 
@@ -38,9 +37,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evilshxt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evilshxt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evilshxt&theme=dark&hide_border=true&background=0d1117&stroke=a855f7&ring=06b6d4&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<!-- GitHub Streak Stats - will show once you have contributions -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=evilshxt&theme=dark&hide_border=true&background=0d1117&stroke=a855f7&ring=06b6d4&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" /> -->
 </div>
 
 ---
@@ -54,8 +54,11 @@
   <a href="https://velvron-labs.vercel.app">
     <img src="https://img.shields.io/badge/Velvron_Labs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Velvron Labs" />
   </a>
-  <a href="https://github.com/evilshxt/tradhive">
-    <img src="https://img.shields.io/badge/TradeHive-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="TradeHive" />
+  <a href="https://carecore.vercel.app">
+    <img src="https://img.shields.io/badge/CareCore_Health-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="CareCore Health" />
+  </a>
+  <a href="https://elevate-resume.vercel.app">
+    <img src="https://img.shields.io/badge/Elevate_Resume-8B5CF6?style=for-the-badge&logo=next.js&logoColor=white" alt="Elevate Resume" />
   </a>
 </div>
 
@@ -78,13 +81,14 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <blockquote>
+    <p><i>"Talk is cheap. Show me the code."</i></p>
+    <footer>— Linus Torvalds</footer>
+  </blockquote>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="200" />
-  <br>
   <p><i>Always coding, always learning, always building! 🚀</i></p>
 </div>
