@@ -1,94 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Elite+Wednesday+👋;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3000&pause=1500&color=888780&center=true&vCenter=true&width=600&lines=Lead+Developer+%26+Founder+at+Velvron+Labs;Crafting+innovative+web+%26+mobile+solutions;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
+
 </div>
+
+<br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding" />
 </div>
 
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Lead+Developer+%26+Founder+at+Velvron+Labs;Crafting+Innovative+Web+%26+Mobile+Solutions;Passionate+about+Code%2C+Gaming+%26+Technology" alt="About Me" />
-</div>
-
-<br>
-
-<!-- GitHub Trophies - will show once you have achievements -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=evilshxt&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" /> -->
+<br />
 
 ---
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+### Elite Wednesday &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Founder
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,firebase,postgres,git,github,vscode,vercel&theme=dark" alt="Tech Stack" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🚧 Currently Learning</h3>
-  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" alt="Learning" />
-</div>
+Founder and lead developer at **Velvron Labs**. I build web and mobile products that are fast, considered, and built to last. Based in Accra, Ghana.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 01 &nbsp;·&nbsp; Stack & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evilshxt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-<!-- GitHub Streak Stats - will show once you have contributions -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=evilshxt&theme=dark&hide_border=true&background=0d1117&stroke=a855f7&ring=06b6d4&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" /> -->
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently learning** &nbsp;·&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
+### 02 &nbsp;·&nbsp; Selected Work
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Batchly**](https://batchly-teal.vercel.app/) | Batch operations platform built for speed and scale | Next.js · TypeScript |
+| [**ClearRemit**](https://clearremit.vercel.app/) | Send money to Ghana — seamless international remittance | React · Node.js |
+| [**CareCore Health**](https://carecore.vercel.app) | Modern health platform with real-time data | React · Firebase |
+| [**Velvron Labs**](https://velvron-labs.vercel.app) | Studio site — digital products & client work | Next.js · Tailwind |
+
+---
+
+### 03 &nbsp;·&nbsp; GitHub Stats
 
 <div align="center">
-  <a href="https://elite-wednesday.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://velvron-labs.vercel.app">
-    <img src="https://img.shields.io/badge/Velvron_Labs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Velvron Labs" />
-  </a>
-  <a href="https://carecore.vercel.app">
-    <img src="https://img.shields.io/badge/CareCore_Health-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="CareCore Health" />
-  </a>
-  <a href="https://elevate-resume.vercel.app">
-    <img src="https://img.shields.io/badge/Elevate_Resume-8B5CF6?style=for-the-badge&logo=next.js&logoColor=white" alt="Elevate Resume" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=evilshxt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=888780&icon_color=888780&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ---
 
-<h2 align="center">🤝 Let's Connect!</h2>
+### 04 &nbsp;·&nbsp; Get in Touch
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/frimpongbrichmond/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:frimpongbrichmond@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/evilshxt">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <blockquote>
-    <p><i>"Talk is cheap. Show me the code."</i></p>
-    <footer>— Linus Torvalds</footer>
-  </blockquote>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://frimpongbrichmond.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frimpongbrichmond/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:frimpongbrichmond@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/evilshxt)
 
 ---
 
 <div align="center">
-  <p><i>Always coding, always learning, always building! 🚀</i></p>
+  <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 </div>
