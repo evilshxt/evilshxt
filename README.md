@@ -1,9 +1,8 @@
 <!-- evilshxt · GitHub Profile README -->
 
 <!-- 01 · Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:888780&height=180&section=header&text=Frimpong%20Brichmond&fontSize=42&fontColor=E8E6E1&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20%26%20Founder%20at%20Velvron%20Labs&descAlignY=58&descSize=16&descColor=C9C7C2" width="100%" />
-</p>
+<h1 align="center">Frimpong Brichmond</h1>
+<p align="center"><i>Lead Developer &amp; Founder at Velvron Labs</i></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" alt="coding animation" />
@@ -12,7 +11,7 @@
 <br />
 
 <!-- 02 · Identity -->
-**Frimpong Brichmond** &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Founder, Velvron Labs &nbsp;·&nbsp; Accra, Ghana
+Full-Stack Engineer &nbsp;·&nbsp; Accra, Ghana
 
 I build web and mobile products that are fast, considered, and built to last. Currently deep in React Native and Flutter, shipping client work through Velvron Labs.
 
