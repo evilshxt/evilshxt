@@ -20,13 +20,8 @@ I build web and mobile products that are fast, considered, and built to last. Cu
 
 ### 01 &nbsp;·&nbsp; Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=evilshxt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=888780&icon_color=888780&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilshxt&layout=compact&hide_border=true&bg_color=0d1117&title_color=888780&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-</p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evilshxt/evilshxt/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="90%" />
+  <img src="https://raw.githubusercontent.com/evilshxt/evilshxt/main/metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
 <br />
